@@ -8,9 +8,10 @@ Pokémon Search: Quickly find your favorite Pokémon by searching for their name
 Paging: Navigate through multiple pages of Pokémon entries to discover more creatures.
 Type Filters: Filter Pokémon by their types (e.g., Fire, Water, Grass) to study their characteristics.
 Responsive Design: Enjoy a seamless experience on a variety of devices, from desktops to mobile phones.
+
 Demo
 Check out the live demo of the GitHub Pokédex Project here.
-Demo
+[Demo](https://pokedex-yking.netlify.app/)
 
 Installation
 Clone this repository to your local machine using git clone.
